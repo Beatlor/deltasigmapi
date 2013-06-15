@@ -19,9 +19,6 @@ i2c-bcm2708
 i2c-dev
 ```
 
-```
-sudo nano /etc/modprobe.d/raspi-blacklist.conf
-```
 Edit /etc/modprobe.d/raspi-blacklist.conf
 ```
 sudo nano /etc/modprobe.d/raspi-blacklist.conf
