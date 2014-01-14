@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python
 # read abelectronics Delta Sigma board inputs with repeating reading from each channel.
 # # Requries Python 2.7
 # Requires SMBus 
