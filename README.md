@@ -64,5 +64,5 @@ cd deltasigmapi
 
 Get the reading from the board
 ```
-sudo python deltasigmapismbus.py changechannel 0x68
+sudo python deltasigmapismbus.py
 ```
