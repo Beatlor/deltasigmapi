@@ -2,8 +2,7 @@ Delta Sigma Pi Version 2
 =======
 Demo code for the Delta Sigma Pi version 2 board from http://www.abelectronics.co.uk
 
-<<<<<<< HEAD
-deltasigmapi files for leveraging your Delta Sigma device on your Raspberry Pi
+Delta Sigma Pi files for leveraging your Delta Sigma device on your Raspberry Pi
 
 ## Getting Started
 Update system and install python, git and the smbus functionality
@@ -83,4 +82,3 @@ dspilogger.py - Samples at 18bit rate and saves to a text file with timestamp
 dspi12.py - Samples at 12bit rate and outputs to console/terminal
 dspi16.py - Samples at 16bit rate and outputs to console/terminal
 dspi18.py - Samples at 18bit rate and outputs to console/terminal
->>>>>>> Update to all code demos
